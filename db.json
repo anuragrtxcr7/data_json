@@ -14,7 +14,7 @@
       "computer_vision": false,
       "reinforcement_learning": false,
       "Transformer_Based": false,
-      "Recurrent_Neural_Networks": false
+      "Recurrent_Neural_Networks": true
     },
     {},
     {},
