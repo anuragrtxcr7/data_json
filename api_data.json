@@ -1,0 +1,29 @@
+{
+  "models": [
+    {
+      "id": 0,
+      "name": "GPT-3.5-Turbo",
+      "developer": "Open AI",
+      "logo": "./images/gpt.jpeg",
+      "snippet_code": "awda",
+      "description": "awdaw",
+      "use_case": "dwa",
+      "favourite": false,
+      "try_out": true,
+      "speech_recognition": false,
+      "computer_vision": false,
+      "reinforcement_learning": false,
+      "Transformer_Based": false,
+      "Recurrent_Neural_Networks": false
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ]
+}
