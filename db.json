@@ -159,22 +159,6 @@
       "reinforcement_learning": false,
       "Transformer_Based": false,
       "Convolutional/Recurrent_Neural_Networks": true 
-    },
-    {
-      "id": 10,
-      "name": "AlphaGo",
-      "developer": "DeepMind Technologies(Google)",
-      "logo": "./images/alphago1.jpeg",
-      "snippet_code": "./images/alphago.jpeg",
-      "description": "AlphaGo is an artificial intelligence (AI) program developed by DeepMind Technologies, a subsidiary of Alphabet Inc. (Google's parent company), that became famous for its groundbreaking achievements in playing the board game Go. It represents a significant milestone in the field of AI and has demonstrated the ability of AI to master complex games.",
-      "use_case": ["Algorithmic Trading","Supply Chain Optimization","Healthcare Decision Support","Natural Language Processing (NLP)","Autonomous Vehicles"],
-      "favourite": false,
-      "try_out": false,
-      "speech_recognition": false,
-      "computer_vision": false,
-      "reinforcement_learning": true,
-      "Transformer_Based": true,
-      "Convolutional/Recurrent_Neural_Networks": false
     }
   ]
 }
