@@ -146,22 +146,6 @@
     },
     {
       "id": 9,
-      "name": "EfficientNet",
-      "developer": "Google",
-      "logo": "./images/efficientnet1.jpeg",
-      "snippet_code": "./images/efficientnet2.jpeg",
-      "description": "EfficientNet is a family of convolutional neural network (CNN) architectures proposed by Mingxing Tan and Quoc V. Le from Google Research in their paper EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,published in 2019. EfficientNet is designed to achieve state-of-the-art performance on image classification tasks while maintaining efficiency in terms of model size and computational resources.",
-      "use_case": ["Image Classification","Object Detection","Semantic Segmentation","Instance Segmentation","Transfer Learning and Fine-Tuning"],
-      "favourite": false,
-      "try_out": false,
-      "speech_recognition": false,
-      "computer_vision": true,
-      "reinforcement_learning": false,
-      "Transformer_Based": false,
-      "Convolutional/Recurrent_Neural_Networks": true
-    },
-    {
-      "id": 10,
       "name": "DeepSpeech",
       "developer": "Mozilla",
       "logo": "./images/deepspeech1.jpeg",
@@ -177,23 +161,7 @@
       "Convolutional/Recurrent_Neural_Networks": true 
     },
     {
-      "id": 11,
-      "name": "Speech-to-Text",
-      "developer": "Google",
-      "logo": "./images/speechtotext1.jpeg",
-      "snippet_code": "./images/speechtotext2.jpeg",
-      "description": "Google Speech-to-Text AI, also known as Google Cloud Speech-to-Text, is a cloud-based service provided by Google that enables developers to convert spoken language into text. It uses advanced machine learning models to accurately transcribe audio in real-time, making it suitable for a wide range of applications and use cases.",
-      "use_case": ["Virtual Assistants and Voice-Controlled Devices","Medical and Healthcare Service","Accessibility Tools","Voice Search and Voice Commands","Customer Service and Call Center Solutions"],
-      "favourite": false,
-      "try_out": false,
-      "speech_recognition": true,
-      "computer_vision": false,
-      "reinforcement_learning": false,
-      "Transformer_Based": true,
-      "Convolutional/Recurrent_Neural_Networks": true 
-    },
-    {
-      "id": 12,
+      "id": 10,
       "name": "AlphaGo",
       "developer": "DeepMind Technologies(Google)",
       "logo": "./images/alphago1.jpeg",
